@@ -17,4 +17,4 @@ Utiliza a Biblioteca de Bot do Telegram, já está no repositório também em fo
 
 O programa pede uma senha inicial que é (_admin_) depois disso ele cria um arquivo txt com sequencia de tokens localizado em documentos na pasta chamada MauricioStudios, para não precisar pedir a senha (_admin_) de novo.
 
-Para armazenar todas as informações de pagametnos ele cria um banco de dados local em formato Txt, na mesma pasta que está instalado em sua máquina, separado em Ano e depois em Mêses.
+Para armazenar todas as informações de pagamento ele cria um banco de dados local em formato Txt, na mesma pasta que está instalado em sua máquina, separado em Ano e depois em Mêses.
