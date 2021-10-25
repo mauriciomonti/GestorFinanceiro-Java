@@ -1,5 +1,5 @@
 # Gestor Financeiro em Java
- Projeto criado com o objetivo inicial de ajudar a minha Mãe a gerenciar os seus Pagamentos
+ Projeto criado com o objetivo inicial de ajudar a minha Mãe a gerenciar os seus Pagamentos :smile:
 
 Versão Java 1.8
 Utiliza a Biblioteca de Bot do Telegram, já está no repositório também em formato .Jar (_telegrambots-2.4.4.5-jar-with-dependencies.jar_)
